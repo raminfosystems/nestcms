@@ -1,4 +1,7 @@
 {
     "git.alwaysSignOff": true,
-    "git.pullBeforeCheckout": true
+    "git.pullBeforeCheckout": true,
+    "git.enableCommitSigning": true,
+    "git.autofetch": "all",
+    "git.enableSmartCommit": true
 }
