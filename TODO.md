@@ -28,3 +28,4 @@
 - [ ] Deploy the CMS system to a production environment and monitor its performance
 - [ ] Continuously iterate and improve the CMS system based on user feedback and requirements.
 - [ ] Include swagger, open api, cors, rate limiter, jwt token, and user management.
+- [ ] Signed Commit.
